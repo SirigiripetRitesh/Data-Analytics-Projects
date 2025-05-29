@@ -10,8 +10,11 @@ This project involves analyzing historical stock price data to uncover trends an
 In this project, data from Zomato is analyzed to understand restaurant trends and customer preferences. Key aspects include:
 
 1.Data Exploration: Examining features such as restaurant types, cuisines, and ratings.
+
 2.Data Cleaning: Addressing inconsistencies and missing values in the dataset.
+
 3.Visualization: Utilizing Seaborn and Matplotlib to create bar charts and heatmaps that illustrate popular cuisines, top-rated restaurants, and average costs.
+
 4.Geospatial Analysis: Mapping restaurant locations to identify clusters and popular dining areas.
 
 

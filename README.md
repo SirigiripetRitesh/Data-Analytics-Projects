@@ -9,6 +9,9 @@ This project involves analyzing historical stock price data to uncover trends an
 4. Statistical Analysis: Calculating moving averages and volatility to assess stock performance.
 
 
+
+
+
 **Zomato Restaurant Data Analysis**
 
 In this project, data from Zomato is analyzed to understand restaurant trends and customer preferences. Key aspects include:
@@ -20,6 +23,9 @@ In this project, data from Zomato is analyzed to understand restaurant trends an
 3.Visualization: Utilizing Seaborn and Matplotlib to create bar charts and heatmaps that illustrate popular cuisines, top-rated restaurants, and average costs.
 
 4.Geospatial Analysis: Mapping restaurant locations to identify clusters and popular dining areas.
+
+
+
 
 
 **YouTube Channel Analysis**

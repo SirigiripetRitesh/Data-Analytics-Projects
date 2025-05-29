@@ -8,6 +8,7 @@ This project involves analyzing historical stock price data to uncover trends an
 
 **Zomato Restaurant Data Analysis**
 In this project, data from Zomato is analyzed to understand restaurant trends and customer preferences. Key aspects include:
+
 1.Data Exploration: Examining features such as restaurant types, cuisines, and ratings.
 2.Data Cleaning: Addressing inconsistencies and missing values in the dataset.
 3.Visualization: Utilizing Seaborn and Matplotlib to create bar charts and heatmaps that illustrate popular cuisines, top-rated restaurants, and average costs.
@@ -16,6 +17,7 @@ In this project, data from Zomato is analyzed to understand restaurant trends an
 
 **YouTube Channel Analysis**
 This project focuses on analyzing data from YouTube channels to assess content performance and audience engagement. The analysis encompasses:
+
 1.Data Extraction: Collecting metrics such as views, likes, comments, and subscriber counts.
 2.Trend Analysis: Identifying patterns in video performance over time.
 3.Engagement Metrics: Calculating ratios like likes-to-views and comments-to-views to gauge audience interaction.
